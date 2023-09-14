@@ -6,6 +6,6 @@ class MainTest {
     @Test
     public void testInitialState() {
         Main spacecraft = new Main();
-        assertEquals("(0, 0, 0) - N", spacecraft.getPositionAndDirection());
+        assertEquals("(0, 0, 1) - N", spacecraft.getPositionAndDirection());
     }
 }
