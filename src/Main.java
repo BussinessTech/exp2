@@ -7,10 +7,10 @@ public class Main {
     private char secondry_direction;
 
     public Main() {
-//        this.x = 0;
-//        this.y = 0;
-//        this.z = 0;
-//        this.direction = 'N';
+        this.x = 0;
+        this.y = 0;
+        this.z = 0;
+        this.direction = 'N';
 
     }
 
